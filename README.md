@@ -1,5 +1,19 @@
-## Hi there 👋
+# Hi, I'm Hanan Moiz 👋  
+Software Engineering Student | Full-Stack Developer | AI Enthusiast
 
+🚀 Technologies I use:
+- JavaScript, TypeScript, Python, PHP
+- React, Node.js, Django
+- SQL (PostgreSQL, MySQL), RESTful APIs
+- Git, VS Code, Postman, Jest
+
+📌 Projects:
+- 🧠 AI-Driven Website Template Generator
+- 📊 Interactive Admin Dashboard
+- 🔐 Secure Login & Registration System
+
+📫 Connect with me:
+[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://yourwebsite.com)
 <!--
 **hananmoiz/hananmoiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
