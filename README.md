@@ -12,7 +12,7 @@
 - 🧠 Full-stack developer specializing in **responsive design**, **scalable systems**, and **seamless user experiences**.
 - 👩‍💻 Tools I use daily: `Next.js`, `Express.js`, `React.js`, `Vite`, `Tailwind CSS`, `TypeScript`, `JavaScript`, `HTML`, `CSS`, `BootStrap`, `Python`, `PostgerSQL`.
 - 💬 Ask me about **Full-Stack Web Development**, **Building AI-Powered Tools**, **RESTful API Integration**, **User Authentication**, **Database Design**, or creating responsive **UI/UX** experiences!
-- 👨‍💻 All of my projects are available at https://ayesha-nextjs-web-portfolio.vercel.app/
+- 👨‍💻 All of my projects are available at https://hanan-moiz-portfolio.vercel.app/
 
 
 ---
@@ -46,8 +46,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayesha-aziz-574780310/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/ayesha-aziz123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-hanan-moiz-95703a34b/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/hananmoiz)
 
 ---
 
